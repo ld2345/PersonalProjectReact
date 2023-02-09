@@ -1,2 +1,0 @@
-# PersonalProjectReact
-WiCSE React Workshop
